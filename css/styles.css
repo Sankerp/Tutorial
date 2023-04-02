@@ -1,0 +1,39 @@
+.lowercase {
+text-transform: lowercase;
+}
+
+.uppercase {
+text-transform: uppercase;
+}
+
+.capitalize {
+text-transform: capitalize;
+}
+
+.post-title {
+  text-align: center;
+}
+
+.post-title-latter {
+  letter-spacing: 5px;
+}
+
+.post-title-word {
+  word-spacing: 100px;
+}
+
+.align-right {
+  text-align: right;
+}
+
+.align-center {
+  text-align: center;
+}
+
+.align-justify {
+  text-align: justify;
+}
+
+.post-text {
+  text-indent: 100px;
+}
